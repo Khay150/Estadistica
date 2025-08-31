@@ -66,7 +66,6 @@ legend("topright", legend=c("sin(x)", "cos(x)", "cos(x^2)"),
        col=c("darkorchid3", "sandybrown", "lightseagreen"),  lwd=2, lty=1)
 
 
-
 # Leyenda donde es un punto y donde pch es la forma del punto, 
 # bty="n" le dice que quite el borde de la caja y 
 # lty=NA elimina la línea en la leyenda
